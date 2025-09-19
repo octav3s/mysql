@@ -6,4 +6,4 @@ INSERT INTO users VALUES('Aromal', 'aromal321@gmail.com', 'Aromal@123');
 -- SQL script to create a table to store user complaints
 CREATE TABLE user_complaints(name VARCHAR(20), complaint VARCHAR(100));
 INSERT INTO user_complaints VALUES('Aditya', 'App is not working properly');
-INSERT INTO user_complaints VALUES('Aromal', 'Unable to login');
+INSERT INTO user_complaints VALUES('Aromal', 'Login issues');
